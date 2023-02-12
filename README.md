@@ -37,6 +37,9 @@
 #### MICROSSH
 [SSH 10 DAYS SG](https://microssh.com/create-account?type=asia)
 
+#### freenet.cafe
+[SSH SG](https://freenet.cafe/)
+
 ## V2ray
 ### ASIA
 #### OPENTUNNEL
@@ -119,6 +122,7 @@
 [xvmess-worryfree ID 3 DAYS](https://monthlyssh.net/create/xray-vmess-worryfree/indonesia)
 [vmess-worryfree SG 3 DAYS](https://monthlyssh.net/create/xray-vmess-worryfree/singapore)
 
+#### freenet.cafe
 
 ## VIP SERVER
 ### ASIA
