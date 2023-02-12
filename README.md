@@ -43,7 +43,14 @@ https://www.fastssh.com/page/v2ray-servers/7
 #### jagoanssh
 - [PREMIUM VMESS ID 1](https://www.jagoanssh.com/?do=create-v2ray&filter=314)
 - [PREMIUM VMESS ID 2](https://www.jagoanssh.com/?do=create-v2ray&filter=315)
-
+- [PREMIUM VMESS SG 1](https://www.jagoanssh.com/?do=create-v2ray&filter=241)
+- [PREMIUM VMESS SG 2](https://www.jagoanssh.com/?do=create-v2ray&filter=242)
+- [PREMIUM VMESS SG 3](https://www.jagoanssh.com/?do=create-v2ray&filter=243)
+- [PREMIUM VMESS SG 4](https://www.jagoanssh.com/?do=create-v2ray&filter=261)
+- [PREMIUM VMESS SG 5](https://www.jagoanssh.com/?do=create-v2ray&filter=262)
+- [PREMIUM VMESS SG 6](https://www.jagoanssh.com/?do=create-v2ray&filter=263)
+- [PREMIUM VMESS SG 7](https://www.jagoanssh.com/?do=create-v2ray&filter=285)
+- [PREMIUM VMESS SG 8](https://www.jagoanssh.com/?do=create-v2ray&filter=286)
 ## VIP SERVER
 ### ASIA
 #### GLOBALSSH must login
