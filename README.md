@@ -40,6 +40,6 @@ https://www.fastssh.com/page/v2ray-servers/7
 #### GLOBALSSH must login
 [PREMIUM VMESS](https://globalssh.net/member/create/premium/vmess)
 [FREE VMESS](https://globalssh.net/member/create/free/vmess)
-
+#### SWEETSSH must login
 [PREMIUM VMESS SG](https://sweetssh.com/vmess/create/sg)
 [PREMIUM VMESS ID](https://sweetssh.com/vmess/create/id)
