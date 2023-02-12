@@ -113,6 +113,13 @@
 #### PROJECTSSH VMESS TIDAK TERSEDIA
 #### MICROSSH VMESS TIDAK TERSEDIA
 
+#### MONTHLYSSH
+[vmess-ws ID 3 DAYS](https://monthlyssh.net/create/xray-vmess-ws/indonesia)
+[vmess-ws SG 3 DAYS](https://monthlyssh.net/create/xray-vmess-ws/singapore)
+[xvmess-worryfree ID 3 DAYS](https://monthlyssh.net/create/xray-vmess-worryfree/indonesia)
+[vmess-worryfree SG 3 DAYS](https://monthlyssh.net/create/xray-vmess-worryfree/singapore)
+
+
 ## VIP SERVER
 ### ASIA
 #### GLOBALSSH must login
