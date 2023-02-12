@@ -34,6 +34,15 @@ https://www.fastssh.com/page/v2ray-servers/4
 https://www.fastssh.com/page/v2ray-servers/5
 https://www.fastssh.com/page/v2ray-servers/6
 https://www.fastssh.com/page/v2ray-servers/7
+#### herbalssh
+[SG LINODE 1](https://herbalserver.me/?do=create-account-v2ray&filter=10)
+[SG LINODE 2](https://herbalserver.me/?do=create-account-v2ray&filter=11)
+[SG OVH 1](https://herbalserver.me/?do=create-account-v2ray&filter=15)
+[SG OVH 2](https://herbalserver.me/?do=create-account-v2ray&filter=16)
+[SG OVH 3](https://herbalserver.me/?do=create-account-v2ray&filter=17)
+#### jagoanssh
+- [PREMIUM VMESS ID 1](https://www.jagoanssh.com/?do=create-v2ray&filter=314)
+- [PREMIUM VMESS ID 2](https://www.jagoanssh.com/?do=create-v2ray&filter=315)
 
 ## VIP SERVER
 ### ASIA
