@@ -151,12 +151,12 @@
 
 #### JETSSH
 
-## VIP SERVER
+## VIP SERVER wajib login
 ### ASIA
-#### GLOBALSSH must login
+#### GLOBALSSH
 - [PREMIUM VMESS](https://globalssh.net/member/create/premium/vmess)
 - [FREE VMESS](https://globalssh.net/member/create/free/vmess)
-#### SWEETSSH must login
+#### SWEETSSH
 - [PREMIUM VMESS SG](https://sweetssh.com/vmess/create/sg)
 - [PREMIUM VMESS ID](https://sweetssh.com/vmess/create/id)
 #### HOWDY
