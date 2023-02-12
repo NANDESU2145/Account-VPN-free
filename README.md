@@ -64,6 +64,13 @@ https://www.fastssh.com/page/v2ray-servers/7
 - [UNLISSH VMESS](https://unlissh.com/create-xray-vmess?type=asia)
 - [UNLISSH VLESS](https://unlissh.com/create-xray-vless?type=asia)
 
+#### CREATESSH
+- [CREATESSH VMESS ID 3 day](https://createssh.net/xray-vmess/indonesia)
+- [CREATESSH VMESS SG 3 day](https://createssh.net/xray-vmess/singapore)
+- [CREATESSH VMess WorryFree ID 3 day](https://createssh.net/xray-vmess-worryfree/indonesia)
+- [CREATESSH VMess WorryFree SG 3 day](https://createssh.net/xray-vmess-worryfree/singapore)
+- [CREATESSH VMESS SG 7 day](https://createssh.net/xray-vmess-7days/singapore)
+
 ## VIP SERVER
 ### ASIA
 #### GLOBALSSH must login
