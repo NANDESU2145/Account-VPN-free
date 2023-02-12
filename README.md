@@ -50,6 +50,8 @@
 
 #### TURBOSSH
 
+#### JETSSH
+[ssh account 7 days](https://www.jetssh.net/create-ssh-account-7-days/6/ssh-singapore)
 
 ## V2ray
 ### ASIA
@@ -128,10 +130,10 @@
 #### MICROSSH VMESS TIDAK TERSEDIA
 
 #### MONTHLYSSH
-[vmess-ws ID 3 DAYS](https://monthlyssh.net/create/xray-vmess-ws/indonesia)
-[vmess-ws SG 3 DAYS](https://monthlyssh.net/create/xray-vmess-ws/singapore)
-[xvmess-worryfree ID 3 DAYS](https://monthlyssh.net/create/xray-vmess-worryfree/indonesia)
-[vmess-worryfree SG 3 DAYS](https://monthlyssh.net/create/xray-vmess-worryfree/singapore)
+- [vmess-ws ID 3 DAYS](https://monthlyssh.net/create/xray-vmess-ws/indonesia)
+- [vmess-ws SG 3 DAYS](https://monthlyssh.net/create/xray-vmess-ws/singapore)
+- [xvmess-worryfree ID 3 DAYS](https://monthlyssh.net/create/xray-vmess-worryfree/indonesia)
+- [vmess-worryfree SG 3 DAYS](https://monthlyssh.net/create/xray-vmess-worryfree/singapore)
 
 #### freenet.cafe
 
@@ -142,11 +144,12 @@
 #### freevpn.us
 
 #### TURBOSSH
-[VMESS WS TURBOSSH ID 3 DAYS](https://turbossh.com/create/xray-vmess-ws/indonesia)
-[VMESS WS TURBOSSH SG 3 DAYS](https://turbossh.com/create/xray-vmess-ws/singapore)
-[VMESS WORRYFREE TURBOSSH ID 3 DAYS](https://turbossh.com/create/xray-vmess-worryfree/indonesia)
-[VMESS WORRYFREE TURBOSSH ID 3 DAYS](https://turbossh.com/create/xray-vmess-worryfree/singapore)
+- [VMESS WS TURBOSSH ID 3 DAYS](https://turbossh.com/create/xray-vmess-ws/indonesia)
+- [VMESS WS TURBOSSH SG 3 DAYS](https://turbossh.com/create/xray-vmess-ws/singapore)
+- [VMESS WORRYFREE TURBOSSH ID 3 DAYS](https://turbossh.com/create/xray-vmess-worryfree/indonesia)
+- [VMESS WORRYFREE TURBOSSH ID 3 DAYS](https://turbossh.com/create/xray-vmess-worryfree/singapore)
 
+#### JETSSH
 
 ## VIP SERVER
 ### ASIA
@@ -158,3 +161,5 @@
 - [PREMIUM VMESS ID](https://sweetssh.com/vmess/create/id)
 #### HOWDY
 - [HOWDY](https://howdy.id)
+#### VPNSTORES
+- [VPNSTORES](https://vpnstores.my.id/login)
