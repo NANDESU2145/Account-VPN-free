@@ -28,12 +28,6 @@
 #### CREATESSH
 
 #### VSTUNNEL
-[VMESS ID 3 day](https://www.vstunnel.com/xray-vmess/indonesia)
-[VMESS SG 3 day](https://www.vstunnel.com/xray-vmess/singapore)
-[VMESS ID 7 day](https://www.vstunnel.com/xray-vmess-7days/indonesia)
-[VMESS SG 7 day](https://www.vstunnel.com/xray-vmess-7days/singapore)
-[VMESS WORRYFREE ID 3 day](https://www.vstunnel.com/xray-vmess-worryfree/indonesia)
-[VMESS WORRYFREE SG 3 day](https://www.vstunnel.com/xray-vmess-worryfree/singapore)
 
 
 ## V2ray
@@ -90,6 +84,13 @@
 - [CREATESSH VMESS SG 7 day](https://createssh.net/xray-vmess-7days/singapore)
 
 #### VSTUNNEL
+[VMESS ID 3 day](https://www.vstunnel.com/xray-vmess/indonesia)
+[VMESS SG 3 day](https://www.vstunnel.com/xray-vmess/singapore)
+[VMESS ID 7 day](https://www.vstunnel.com/xray-vmess-7days/indonesia)
+[VMESS SG 7 day](https://www.vstunnel.com/xray-vmess-7days/singapore)
+[VMESS WORRYFREE ID 3 day](https://www.vstunnel.com/xray-vmess-worryfree/indonesia)
+[VMESS WORRYFREE SG 3 day](https://www.vstunnel.com/xray-vmess-worryfree/singapore)
+
 
 ## VIP SERVER
 ### ASIA
