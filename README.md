@@ -29,6 +29,8 @@
 
 #### VSTUNNEL
 
+#### SSHOCEAN
+
 
 ## V2ray
 ### ASIA
@@ -95,6 +97,13 @@
 - [V2ray Vmess Server ID 7 DAYS](https://sshstores.net/v2ray-region/vmess/indonesia/)
 - [V2ray Vmess Server SG 7 DAYS ](https://sshstores.net/v2ray-region/vmess/singapore/)
 
+#### SSHOCEAN
+- [V2ray Vmess Server ID 7 DAYS](https://sshocean.com/v2ray/vmess/indonesia)
+- [V2ray Vmess Server SG 7 DAYS ](https://sshocean.com/v2ray/vmess/singapore)
+
+#### WHYVPN
+- [WHYVPN ID 7 DAYS](https://whyvpn.my.id/?do=v2ray-vmess-ws-none-servers&negara=id)
+- [WHYVPN SG 7 DAYS](https://whyvpn.my.id/?do=v2ray-vmess-ws-none-servers&negara=sg)
 
 ## VIP SERVER
 ### ASIA
@@ -104,3 +113,5 @@
 #### SWEETSSH must login
 - [PREMIUM VMESS SG](https://sweetssh.com/vmess/create/sg)
 - [PREMIUM VMESS ID](https://sweetssh.com/vmess/create/id)
+#### HOWDY
+- [HOWDY](https://howdy.id)
