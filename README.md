@@ -92,8 +92,8 @@
 - [VMESS WORRYFREE SG 3 day](https://www.vstunnel.com/xray-vmess-worryfree/singapore)
 
 #### SSHSTORES
-- [V2ray Vmess Server Indonesia](https://sshstores.net/v2ray-region/vmess/indonesia/)
-- [V2ray Vmess Server Singapore](https://sshstores.net/v2ray-region/vmess/singapore/)
+- [V2ray Vmess Server ID 7 DAYS](https://sshstores.net/v2ray-region/vmess/indonesia/)
+- [V2ray Vmess Server SG 7 DAYS ](https://sshstores.net/v2ray-region/vmess/singapore/)
 
 
 ## VIP SERVER
